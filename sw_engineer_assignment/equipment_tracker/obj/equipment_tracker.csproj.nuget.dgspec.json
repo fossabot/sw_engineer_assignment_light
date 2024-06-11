@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\erikh\\OneDrive\\Documents\\Coding\\sw_engineer_assignment\\equipment_tracker\\equipment_tracker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\erikh\\OneDrive\\Documents\\Coding\\sw_engineer_assignment\\equipment_tracker\\equipment_tracker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erikh\\OneDrive\\Documents\\Coding\\sw_engineer_assignment\\equipment_tracker\\equipment_tracker.csproj",
+        "projectName": "equipment_tracker",
+        "projectPath": "C:\\Users\\erikh\\OneDrive\\Documents\\Coding\\sw_engineer_assignment\\equipment_tracker\\equipment_tracker.csproj",
+        "packagesPath": "C:\\Users\\erikh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erikh\\OneDrive\\Documents\\Coding\\sw_engineer_assignment\\equipment_tracker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\erikh\\OneDrive\\Documents\\Coding\\sw_engineer_assignment\\equipment_tracker_lib\\equipment_tracker_lib.csproj": {
+                "projectPath": "C:\\Users\\erikh\\OneDrive\\Documents\\Coding\\sw_engineer_assignment\\equipment_tracker_lib\\equipment_tracker_lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erikh\\OneDrive\\Documents\\Coding\\sw_engineer_assignment\\equipment_tracker_lib\\equipment_tracker_lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erikh\\OneDrive\\Documents\\Coding\\sw_engineer_assignment\\equipment_tracker_lib\\equipment_tracker_lib.csproj",
+        "projectName": "equipment_tracker_lib",
+        "projectPath": "C:\\Users\\erikh\\OneDrive\\Documents\\Coding\\sw_engineer_assignment\\equipment_tracker_lib\\equipment_tracker_lib.csproj",
+        "packagesPath": "C:\\Users\\erikh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erikh\\OneDrive\\Documents\\Coding\\sw_engineer_assignment\\equipment_tracker_lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

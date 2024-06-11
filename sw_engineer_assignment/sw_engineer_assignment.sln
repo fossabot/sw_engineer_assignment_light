@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "equipment_tracker", "equipment_tracker\equipment_tracker.csproj", "{8FD18CB4-3EAA-4BB3-9C49-F04ACCB7DD38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "equipment_tracker_lib", "equipment_tracker_lib\equipment_tracker_lib.csproj", "{94CAB82D-2A7B-4F3D-A19A-478A04E3D5F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FD18CB4-3EAA-4BB3-9C49-F04ACCB7DD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD18CB4-3EAA-4BB3-9C49-F04ACCB7DD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD18CB4-3EAA-4BB3-9C49-F04ACCB7DD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD18CB4-3EAA-4BB3-9C49-F04ACCB7DD38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94CAB82D-2A7B-4F3D-A19A-478A04E3D5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CAB82D-2A7B-4F3D-A19A-478A04E3D5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CAB82D-2A7B-4F3D-A19A-478A04E3D5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CAB82D-2A7B-4F3D-A19A-478A04E3D5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

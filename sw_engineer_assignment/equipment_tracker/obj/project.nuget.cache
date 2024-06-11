@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "00gaePq9vJg4DIEdzJ5cU5Rz/jMo+u8+XKuoCWgtOy+4LjDIsfBl/zUm/A6d+jRKUfczjQW/MGtZXCONDCgSJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erikh\\OneDrive\\Documents\\Coding\\sw_engineer_assignment\\equipment_tracker\\equipment_tracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erikh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

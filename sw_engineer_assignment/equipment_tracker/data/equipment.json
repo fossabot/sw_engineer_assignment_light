@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "Status": "Operational",
+    "Name": "CPU"
+  },
+  {
+    "Id": 2,
+    "Status": "Damaged",
+    "Name": "processor"
+  },
+  {
+    "Id": 3,
+    "Status": "NeedsMaintenance",
+    "Name": "Testcase"
+  }
+]

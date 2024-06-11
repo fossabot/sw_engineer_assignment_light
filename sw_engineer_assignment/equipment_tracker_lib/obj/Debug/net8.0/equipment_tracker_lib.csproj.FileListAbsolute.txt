@@ -1,0 +1,13 @@
+C:\Users\erikh\OneDrive\Documents\Coding\sw_engineer_assignment\equipment_tracker_lib\bin\Debug\net8.0\equipment_tracker_lib.deps.json
+C:\Users\erikh\OneDrive\Documents\Coding\sw_engineer_assignment\equipment_tracker_lib\bin\Debug\net8.0\equipment_tracker_lib.dll
+C:\Users\erikh\OneDrive\Documents\Coding\sw_engineer_assignment\equipment_tracker_lib\bin\Debug\net8.0\equipment_tracker_lib.pdb
+C:\Users\erikh\OneDrive\Documents\Coding\sw_engineer_assignment\equipment_tracker_lib\obj\Debug\net8.0\equipment_tracker_lib.csproj.AssemblyReference.cache
+C:\Users\erikh\OneDrive\Documents\Coding\sw_engineer_assignment\equipment_tracker_lib\obj\Debug\net8.0\equipment_tracker_lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikh\OneDrive\Documents\Coding\sw_engineer_assignment\equipment_tracker_lib\obj\Debug\net8.0\equipment_tracker_lib.AssemblyInfoInputs.cache
+C:\Users\erikh\OneDrive\Documents\Coding\sw_engineer_assignment\equipment_tracker_lib\obj\Debug\net8.0\equipment_tracker_lib.AssemblyInfo.cs
+C:\Users\erikh\OneDrive\Documents\Coding\sw_engineer_assignment\equipment_tracker_lib\obj\Debug\net8.0\equipment_tracker_lib.csproj.CoreCompileInputs.cache
+C:\Users\erikh\OneDrive\Documents\Coding\sw_engineer_assignment\equipment_tracker_lib\obj\Debug\net8.0\equipment_tracker_lib.sourcelink.json
+C:\Users\erikh\OneDrive\Documents\Coding\sw_engineer_assignment\equipment_tracker_lib\obj\Debug\net8.0\equipment_tracker_lib.dll
+C:\Users\erikh\OneDrive\Documents\Coding\sw_engineer_assignment\equipment_tracker_lib\obj\Debug\net8.0\refint\equipment_tracker_lib.dll
+C:\Users\erikh\OneDrive\Documents\Coding\sw_engineer_assignment\equipment_tracker_lib\obj\Debug\net8.0\equipment_tracker_lib.pdb
+C:\Users\erikh\OneDrive\Documents\Coding\sw_engineer_assignment\equipment_tracker_lib\obj\Debug\net8.0\ref\equipment_tracker_lib.dll
