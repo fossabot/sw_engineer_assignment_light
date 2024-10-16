@@ -1,4 +1,6 @@
 # Equipment Tracker
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FErikHeinzle00%2Fsw_engineer_assignment_light.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FErikHeinzle00%2Fsw_engineer_assignment_light?ref=badge_shield)
+
 ## Overview
 This application is able to let the user interact with json objects inside a json file which path is declared in the "FilePath" variable in the Equipment Class.
 The app has the ability to: 
@@ -30,3 +32,7 @@ To retrieve the data, the application has a dedicated method to read the json fi
 It is to be mentioned, in the "sw_engineer_assignment" folder is a given folder "Testcases" which has a couple of screenshots with some tests done to the most common usecases.
 
 Also I want to mention, that i wrote the whole application in the Jetbrains Rider IDE and just did the Tests in Visual Studio. I hope the using experience and reviewing works in Visual Studio the same as in Rider. The README.md is only shown in the solution in Visual Studio and gets ignored in Rider for some reason. 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FErikHeinzle00%2Fsw_engineer_assignment_light.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FErikHeinzle00%2Fsw_engineer_assignment_light?ref=badge_large)
